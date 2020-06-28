@@ -15,3 +15,6 @@ A corpus for Sinhala songs lyrics prepared for CS4642 Data Mining & Information 
 11. `lyric`: lyric (each line seperated by a `\n` character)
 
 > Some of the above fields may empty in the json file due to different html formats in the website.
+
+### Note
+Data is scraped from the https://sinhalasongbook.com/ site for educational purposes.
